@@ -1,3 +1,4 @@
+<h1>R36Droid</h1>
 🎮 R36Droid (Android for R36S/H Clones)
 Welcome to the official repository for R36Droid, a specialized Android build optimized for R36S and R36H clone devices. Our mission is to provide a stable, high-performance experience on the RK3326 platform.
 
