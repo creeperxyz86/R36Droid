@@ -2,7 +2,7 @@
 Welcome to the official repository for R36Droid, a specialized Android build optimized for R36S and R36H clone devices. Our mission is to provide a stable, high-performance experience on the RK3326 platform.
 
 👥 The Team
-Lead Developer: @creeperxyz86 (Kernel, Hardware Abstraction, & Base System)
+Lead Developer: @creeperxyz86, @itskenny (Kernel, Hardware Abstraction, & Base System)
 
 System Architect: @phamtrungdang69-a11y (Optimization, Memory Management, & Documentation)
 
