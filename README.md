@@ -27,7 +27,7 @@ Tag @phamtrungdang69-a11y in your comment for architectural review.
 
 Provide evidence/metrics (RAM usage, Boot time, etc.) if possible.
 
-🔌 POWER & SAFETY (ISSUE #85)
+🔌 POWER & SAFETY (ISSUE #85 from Andr36oid project from @sonic011gamer)
 DO NOT use high-speed PD chargers or USB-C to USB-C cables. This causes "false voltage" and BMS glitches, leading to boot loops and data corruption.
 
 Use ONLY USB-A to USB-C original cables.
