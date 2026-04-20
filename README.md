@@ -27,7 +27,7 @@ Tag @phamtrungdang69-a11y in your comment for architectural review.
 
 Provide evidence/metrics (RAM usage, Boot time, etc.) if possible.
 
-### If your Rk3326-based R36S, R36S Clone, R36H or Soy Sauce system is not listed
+### If your RK3326-based R36S, R36S Clone, R36H or Soy Sauce system is not listed
 Raise an [issue](https://github.com/creeperxyz86/R36Droid/issues) with the motherboard ID and attach your Arkos/dArkos .dtb files and boot.ini in a zip file
 
 🔌 POWER & SAFETY (ISSUE #85 by @phamtrungdang69-a11y from Andr36oid project from @sonic011gamer)
