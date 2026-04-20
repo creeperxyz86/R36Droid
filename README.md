@@ -1,6 +1,8 @@
 <h1>R36Droid</h1>
 Welcome to the official repository for R36Droid, a specialized Android build optimized for R36S and R36H clone devices. Our mission is to provide a stable, high-performance experience on the RK3326 platform.
 
+R36Droid isn't just another Rom. It's the ultimate sanctuary for R36S/R36H Clones. If you have a G80CA board or a 'forgotten' panel, you're not a victim of a bad purchase anymore—you're a part of the R36Droid elite. Performance first, no compromises.
+
 👥 The Team
 Lead Developer: @creeperxyz86, @itskenny0 (Kernel, Hardware Abstraction, & Base System)
 
