@@ -6,7 +6,7 @@ R36Droid isn't just another Rom. It's the ultimate sanctuary for R36S/R36H Clone
 👥 The Team
 Lead Developer: @creeperxyz86, @itskenny0 (Kernel, Hardware Abstraction, & Base System)
 
-System Architect: @phamtrungdang69-a11y (Optimization, Memory Management, & Documentation)
+System Architect: @clover-a11y (Optimization, Memory Management, & Documentation)
 
 ⚠️ CRITICAL: READ BEFORE OPENING AN ISSUE
 To keep development efficient and the repository clean, we strictly enforce the following rules. Failure to follow these will result in your issue being CLOSED or LOCKED immediately.
@@ -25,7 +25,7 @@ If you have suggestions for system optimization, UI refinements, or virtual cont
 
 Open an issue with a clear technical description.
 
-Tag @phamtrungdang69-a11y in your comment for architectural review.
+Tag @clover-a11y in your comment for architectural review.
 
 Provide evidence/metrics (RAM usage, Boot time, etc.) if possible.
 
